@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/student_vj_crud/static/css/main.f98c4d29.css",
+    "main.js": "/student_vj_crud/static/js/main.640dc9c1.js",
+    "index.html": "/student_vj_crud/index.html",
+    "main.f98c4d29.css.map": "/student_vj_crud/static/css/main.f98c4d29.css.map",
+    "main.640dc9c1.js.map": "/student_vj_crud/static/js/main.640dc9c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f98c4d29.css",
+    "static/js/main.640dc9c1.js"
+  ]
+}
