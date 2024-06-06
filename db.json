@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "vijay R ",
+      "location": "Madurai",
+      "email": "vijay31235@gmail.com",
+      "dob": "2001-12-12",
+      "education": "M.SC"
+    },
+    {
+      "id": "2",
+      "name": "Dinesh",
+      "location": "chennai",
+      "email": "dinesh@gmail.com",
+      "dob": "2002-10-09",
+      "education": "M.SC"
+    },
+    {
+      "id": "3",
+      "name": "Senthil",
+      "location": "Madurai",
+      "email": "senthil@gmail.com",
+      "dob": "2001-11-12",
+      "education": "B.Sc"
+    },
+    {
+      "id": "4",
+      "name": "Mani",
+      "location": "viruthunagar",
+      "email": "mani@gmil.com",
+      "dob": "2004-03-05",
+      "education": "M.Com"
+    },
+    {
+      "id": "5",
+      "name": "karthick",
+      "location": "Theni",
+      "email": "karthick2001@gmail.com",
+      "dob": "2004-02-01",
+      "education": "B.com"
+    },
+    {
+      "id": "6",
+      "name": "Sona",
+      "location": "Madurai",
+      "email": "sona@gmail.com",
+      "dob": "2002-07-28",
+      "education": "MCA"
+    },
+    {
+      "id": "7",
+      "name": "Gayathri",
+      "location": "Ramnadu",
+      "email": "gayu@gmail.com",
+      "dob": "2001-12-10",
+      "education": "MBA"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.header input {
+  width: 40%;
+  padding: 10px;
+  outline: none;
+  padding: 10px;
+}
+
+.header .add-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+  width:8%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+table th
+{
+  text-align: center;
+}
+table tr:nth-child(even)
+{
+  background-color:lightgray;
+}
+
+.edit-button {
+  width:80px;
+  height: 30px;
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-left:25%;
+}
+.edit-button:hover
+{
+  background-color: lightgreen;
+}
+
+
+.delete-button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  width:80px;
+  height: 30px;
+  border-radius: 15px;
+  margin-left:25%;
+}
+.delete-button:hover
+{
+  background-color: lightcoral;
+}
+
+.form-popup {
+  width: 250px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: white;
+}
+
+.form-popup form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-popup form label {
+  margin-bottom: 5px;
+}
+
+.form-popup form input {
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.form-popup form button {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.form-popup form button[type="submit"] {
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+.form-popup button:hover
+{
+  cursor: pointer;
+}
+
+.form-popup form button[type="button"] {
+  background-color: #ccc;
+  color: black;
+  border: none;
+}
